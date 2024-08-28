@@ -1,3 +1,8 @@
 .home-feed-title {
   color: purple;
 }
+
+.homefeed {
+    color: red;  /* Changed color to red */
+    /* ... existing styles ... */
+}
