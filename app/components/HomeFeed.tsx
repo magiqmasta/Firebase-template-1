@@ -1,4 +1,4 @@
-import './HomeFeed.css';
+import '../styles/HomeFeed.css';
 
 function HomeFeed() {
   return (
